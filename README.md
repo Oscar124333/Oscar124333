@@ -1,8 +1,8 @@
 # hello-world
-just learning how to use this thingy
-3/15/2025
-brrrrrrrr
+#### just learning how to use this thingy
+#### 3/15/2025
+#### brrrrrrrr
 ## added to my profile
-11/25/2025
-small and simple projects
-learning along the way
+#### 11/25/2025
+#### small and simple projects
+#### learning along the way
